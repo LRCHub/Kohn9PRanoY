@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Song I am.",
+  "base_artist": "Roselia",
+  "createdAt": "2026-03-05T04:56:46.015440Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Witch's Song, I Am Your Pussy",
+      "artist": "Gong",
+      "has_synced": true,
+      "path": "select/01_Witch's_Song,_I_Am_Your_Pussy_Gong.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nayib's Song (I Am Here For You)",
+      "artist": "Gloria Estefan",
+      "has_synced": false,
+      "path": "select/02_Nayib's_Song_(I_Am_Here_For_You)_Gloria_Estefan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Song I am.",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/03_Song_I_am._Roselia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Witches Song / I Am Your Pussy",
+      "artist": "Gong",
+      "has_synced": false,
+      "path": "select/04_Witches_Song___I_Am_Your_Pussy_Gong.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Gummy Bear Song (I Am A Gummy Bear)",
+      "artist": "Gummibär",
+      "has_synced": false,
+      "path": "select/05_The_Gummy_Bear_Song_(I_Am_A_Gummy_Bear)_Gummibär.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Gummy Bear Song (I Am A Gummy Bear) - Christmas Special",
+      "artist": "Gummibär",
+      "has_synced": false,
+      "path": "select/06_The_Gummy_Bear_Song_(I_Am_A_Gummy_Bear)_-_Christmas_Special_Gummibär.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nayib's Song (I Am Here For You) (Album Version)",
+      "artist": "Gloria Estefan",
+      "has_synced": false,
+      "path": "select/07_Nayib's_Song_(I_Am_Here_For_You)_(Album_Version)_Gloria_Estefan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "song i am",
+      "artist": "roselia",
+      "has_synced": true,
+      "path": "select/08_song_i_am_roselia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "m3 song i am",
+      "artist": "roselia",
+      "has_synced": true,
+      "path": "select/09_m3_song_i_am_roselia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Untitled Goose Song (I Am a Goose)",
+      "artist": "K10 Music",
+      "has_synced": false,
+      "path": "select/10_Untitled_Goose_Song_(I_Am_a_Goose)_K10_Music.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Gummy Bear Song (I Am A Gummy Bear) (Halloween Special)",
+      "artist": "Gummibär",
+      "has_synced": true,
+      "path": "select/11_The_Gummy_Bear_Song_(I_Am_A_Gummy_Bear)_(Halloween_Special)_Gummibär.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Song I am.",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/12_Song_I_am._Roselia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Song I am.",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_Song_I_am._Roselia.txt"
+    }
+  ]
+}
